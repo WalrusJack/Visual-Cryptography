@@ -3,13 +3,9 @@
 
 <h4>Usage:</h4>
 <p>Compile with the following:</p>
-<br>
 <p>java VisualCrypto.java</p>
-<br>
 <p>Run the code with the following:</p>
-<br>
 <p>java VisualCrypto.java 'filename'</p>
-<br>
 <p>The image can be anything, but a black and white image works best.</p>
 
 <h4>*Known Bugs*</h4>
