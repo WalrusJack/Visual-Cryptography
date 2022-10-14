@@ -1,9 +1,8 @@
 
 /*
- *	Author: Bruno Francisco (feel free to steal)
+ *	Author: Bruno Francisco
  *	
- *	Messy implementation of a k out of k visual cryptography scheme.
- *	Probably doesn't even work right.
+ *	Implementation of a k out of k visual cryptography scheme.
  *
 */
 
